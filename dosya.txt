@@ -1,0 +1,8 @@
+ABC
+ACB
+ADE
+DEC
+DEC
+ACB
+ACB
+FED
